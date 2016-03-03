@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CompanyName</title>
-    <description>Edit description in _config.yml</description>
-    <link>http://www.delightfuldev.com/</link>
-    <atom:link href="http://www.delightfuldev.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Mar 2016 11:10:01 +0100</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 11:10:01 +0100</lastBuildDate>
+    <title>SOLOBESTAPPS</title>
+    <description>Making nice apps.</description>
+    <link>juansoilan.github.io/</link>
+    <atom:link href="juansoilan.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Mar 2016 11:26:32 +0100</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 11:26:32 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -77,8 +77,8 @@ Introducing Appolo, a set of plugins and themes for &lt;a href=&quot;http://jeky
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 </description>
         <pubDate>Sat, 26 Dec 2015 10:32:24 +0100</pubDate>
-        <link>http://www.delightfuldev.com/appolo</link>
-        <guid isPermaLink="true">http://www.delightfuldev.com/appolo</guid>
+        <link>juansoilan.github.io/appolo</link>
+        <guid isPermaLink="true">juansoilan.github.io/appolo</guid>
         
         
         <category>web</category>
@@ -112,8 +112,8 @@ Meeru is the app that allows you to play multiple videos from streaming websites
 &lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/app_store_coming_soon.png&quot; alt=&quot;Coming Soon&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Dec 2015 10:32:24 +0100</pubDate>
-        <link>http://www.delightfuldev.com/meeru</link>
-        <guid isPermaLink="true">http://www.delightfuldev.com/meeru</guid>
+        <link>juansoilan.github.io/meeru</link>
+        <guid isPermaLink="true">juansoilan.github.io/meeru</guid>
         
         
         <category>mac</category>
@@ -156,8 +156,8 @@ Swipe left or right to quickly change image effects. Swipe up or down to swiftly
 &lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/app/apple-store/id985064577?pt=320144&amp;amp;ct=Deep%20Website%20Bottom&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Dec 2015 13:32:24 +0100</pubDate>
-        <link>http://www.delightfuldev.com/deep</link>
-        <guid isPermaLink="true">http://www.delightfuldev.com/deep</guid>
+        <link>juansoilan.github.io/deep</link>
+        <guid isPermaLink="true">juansoilan.github.io/deep</guid>
         
         
         <category>iphone</category>
